@@ -84,7 +84,7 @@ nav ul li a{
 }
 
 a.active, a:hover{
-  background:lightblue;
+  background:#81D8D0;
   transition: .5s;
 }
 
@@ -213,7 +213,7 @@ a.active, a:hover{
 .card-img-top{
   padding: 2.5% 2.5%;
   width: 100%;
-  height: 40vh;
+  height: 80vh;
   object-fit: cover;
 }
 
