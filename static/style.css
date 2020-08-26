@@ -20,7 +20,7 @@ body{
 }
 
 .jumbotron{
-  background-color:  lightblue;
+  background-color:  #81D8D0;
   color: white;
   text-align: center;
   padding: 1%;
@@ -30,6 +30,7 @@ p.one {
   border-style: solid;
   border-color: white;
   padding: 1% 1%;
+  color: white;
 }
 
 h1.display-4{
@@ -248,4 +249,18 @@ p, h2 {
   outline-color: initial;
   outline-style: initial;
   
+}
+/* Tools Page*/
+.about {
+    color: black;
+    font-family: "Arial Black", Gadget, sans-serif !important;
+}
+
+.about-title {
+    padding: 20px;
+    padding-left: 0px !important;
+}
+
+.about-contents {
+    font-family: Tahoma, Geneva, sans-serif !important;
 }
